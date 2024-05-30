@@ -2,7 +2,9 @@
 This is the submission allocated for the task 1 for web Executive recruitment.
 This repo contains a frontend for an app build for IIT-K's SPO.
 If i was asked to give a priority preference for the three tasks i would give this task-1 third priority.
-The app contains various requirements that were mentioned to be done
+The app contains various requirements that were mentioned to be done.
+The link for the application is
+https://spobyaditya.netlify.app/
 
 1.This is the home page.
 ![spoh1](https://github.com/Adi6783/Webextask1/assets/165944437/6a4b65ad-cc31-4fc5-979f-d212e38b3c04)
